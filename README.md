@@ -1,2 +1,2 @@
-# eos-hello
-eos hello project
+# hello-eos
+hello-eos project
